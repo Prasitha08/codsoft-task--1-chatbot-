@@ -6,7 +6,7 @@
 
 **INTERN ID**: CS25RY83048
 
-**DOMAIN** : PYTHON PROGRAMMING
+**DOMAIN** : Artificial Intelligence 
 
 **BATCH DURATION** : 5 JULY 2025 - 5 AUGUST 2025
 
